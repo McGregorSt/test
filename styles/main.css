@@ -1,9 +1,0 @@
-.main {
-  background-color: aquamarine;
-}
-.sm {
-  background-color: cadetblue;
-}
-.main > * {
-  background-color: chartreuse;
-}
